@@ -6,4 +6,5 @@
 以下，如需提取码，均为1234<br>
 教材：Doepke et al. (1999) [Macroeconomics](https://faculty.wcas.northwestern.edu/~mdo738/textbook/main.pdf)<br>
 第九章：[资料](https://pan.baidu.com/s/1FujN8BsUL28SwxuvX146wg)<br>
+第十二章：[资料](https://pan.baidu.com/s/1eFKgyUJJ7N4-2RQ8lS-HSg)<br>
 待续...
