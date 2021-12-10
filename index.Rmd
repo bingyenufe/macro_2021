@@ -13,5 +13,6 @@ output: html_document
 第九章：[资料](https://pan.baidu.com/s/1FujN8BsUL28SwxuvX146wg)<br>
 第十二章：[资料](https://pan.baidu.com/s/1eFKgyUJJ7N4-2RQ8lS-HSg)<br>
 第十五周报告文章：[资料](https://pan.baidu.com/s/1VxnbuvAOg6y9Q_YiVrcubA)<br>
-待续...
-
+  
+### 课程论文  
+要求：[链接](https://kdocs.cn/l/cdf5TfIrgv1a)
